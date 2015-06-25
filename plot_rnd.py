@@ -18,4 +18,8 @@ fig.colorbar(im, ax=ax)
 
 # save the figure
 plt.savefig('plot_rnd.png')
+<<<<<<< HEAD
 plt.show()
+=======
+plt.show()
+>>>>>>> 6f0b1d488913d48494e5e01f868e54c4c40fdcf1
